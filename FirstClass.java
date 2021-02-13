@@ -13,7 +13,7 @@ class FirstClass //creating a class, plus the name of the program (firstClass)
         /*creating a main method inside a class (this is one of the most important Java methods)
          * the main() method is the entry point into the java app 
          * first three words are keywords
-         * public is an access modifier of the main method, 
+         * public is an access moifier of the main method, 
          * java runtime can only execute this method as it is public, otherwise it cannot be executed by and program
          * static allows JVM to load the class into memory and call the main method
          * void is keyword that means a method will not return anything
